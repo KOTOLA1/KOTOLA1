@@ -1,4 +1,4 @@
--# Hi there, I'm [Your Name]!
+-# Hi there, I'm [KOTOLA YACOB]!
 
 Welcome to my GitHub profile! I'm a [Web Developer, Front end Developer] with a passion for [, Web development, open-source, data science, design].
 
