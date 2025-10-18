@@ -2,6 +2,7 @@
 KOTOLA YACOB
 
 🎓 3RD Year IT student,💻 Front-End Web Developer | Turning ideas into beautiful, intaractive web design | 🤖 passionate about cybersecurity.
+
   Welcome! i'm Kotola Yacob, A 3rd Year IT student at Dire Dawa university and A Front-End web developer Designing secure and user-centric applications.
 
 - **Name:** KOTOLA YACOB
