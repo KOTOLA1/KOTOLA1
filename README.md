@@ -1,20 +1,20 @@
--# Hi there, I'm [KOTOLA YACOB]!
+🔥 About Me:
+KOTOLA YACOB
+🎓 3RD Year IT student,💻 Front-End Web Developer | Turning ideas into beautiful, intaractive web design | 🤖 passionate about cybersecurity.
+  Welcome! i'm Kotola Yacob, A 3rd Year IT student at Dire Dawa university and A Front-End web developer Designing secure and user-centric applications.
 
-Welcome to my GitHub profile! I'm a [Web Developer, Front end Developer] with a passion for [, Web development, open-source, data science, design].
-
-## About Me
-
-- **Name:** [KOTOLA YACOB]
-- **Location:** [DIRE DAWA]
-- **Current Role:** [IT STUDENT]
-- **Interests:** [Web Development, AI, UI/UX Design]
-- **Hobbies:** [Reading, Gaming,Cooking,]
+- **Name:** KOTOLA YACOB
+- **Location:** ETHIOPIA 
+- **Current Role:** IT STUDENT
+- **Interests:** 👨‍💻Web Development| AI| UI/UX Design
+- **Hobbies:**  🏀Hooping| 👨‍💻Coding | 👨‍🍳 Cooking.
 
 ## Skills
+      ⬇️
 
-- **Languages:** [ JavaScript, Python, C++]
-- **Frameworks & Tools:** [React, Node.js, TensorFlow, Docker]
-- **Others:** [Git, Linux, Agile, APIs]
+- **Languages:**  JavaScript| Python| C++
+- **Frameworks & Tools:** React| Node.js| TensorFlow| Docker
+- **Others:** Git| Linux| Agile| APIs
 
 ## Let's Connect
 
