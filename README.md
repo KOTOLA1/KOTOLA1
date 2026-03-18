@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hi! I’m Kotola Yacob, a passionate developer who loves building real-world apps and solving problems with clean, efficient code.<br><br>🚀 Focus Areas: Android Development (Java), Backend (Spring Boot), Mobile-first UX, Minimalistic App Design<br><br>📱 Projects: Smart Expense Tracker, Focus Mode App, Offline-first Sync Apps<br><br>⚡ Skills:<br><br>Languages: Java, Kotlin, C#, SQL, Python (for scripts/ML basics)<br><br>Mobile / Frontend: Android Studio, Jetpack Compose, XML Layouts, Flutter (optional)<br><br>Backend / APIs: Spring Boot, REST API, GraphQL, Node.js (basic)<br><br>Databases: SQLite, Room, PostgreSQL, Firebase<br><br>Cloud / DevOps: Git, GitHub, Docker, CI/CD, Cloud deployment basics<br><br>Tools & Libraries: Retrofit, MPAndroidChart, TensorFlow Lite, Material Design Components<br><br>Testing / Quality: JUnit, Mockito, Espresso, Integration Testing<br><br>Other: Agile workflow, MVVM, Clean Architecture, Dependency Injection, Offline-first apps<br><br>🌱 Always Learning: Modern frameworks, system design patterns, on-device ML, advanced Android architecture<br><br>I build things that matter, not just tutorials. Every project is an opportunity to learn, innovate, and create something useful.
+Hi! I’m Kotola Yacob, an Android developer building real-world apps with clean code and minimalistic design.
+
+🚀 Focus: Android (Java, Jetpack Compose), Backend (Spring Boot), Mobile-first UX
+
+⚡ Skills: Java, Kotlin, C#, SQL, SQLite, Firebase, REST APIs, Clean Architecture, MVVM, TensorFlow Lite
+
+🌱 Always learning modern frameworks, system design, and on-device ML
+
+I build things that matter, not just tutorials.
 
 
 ## 🌐 Socials:
