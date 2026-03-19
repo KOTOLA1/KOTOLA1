@@ -1,5 +1,16 @@
 # 💫 About Me:
-           WELCOME<br>                               I’m Kotola Yacob.<br>an Android developer building real-world apps with clean code and minimalistic design.<br><br>🚀 Focus: Android (Java, Jetpack Compose), Backend (Spring Boot), Mobile-first UX<br><br>⚡ Skills: Java, Kotlin, C#, SQL, SQLite, Firebase, REST APIs, Clean Architecture, MVVM, TensorFlow Lite<br><br>🌱 Always learning modern frameworks, system design, and on-device ML I build things that matter, not just tutorials
+                      WELCOME
+                 I’m Kotola Yacob.
+
+currently working on building faster and cleaner mobile apps.      
+
+I build things for the web. Clean UI, solid logic, and no unnecessary complexity. Always learning new tools and pushing my limits as a developer.
+ 
+🚀 Focus: Android (Java, Jetpack Compose), Backend (Spring Boot), Mobile-first UX
+
+⚡ Skills: Java, Kotlin, C#, SQL, SQLite, Firebase, REST APIs, Clean Architecture, MVVM, TensorFlow Lite
+
+🌱 Always learning modern frameworks, system design, and on-device ML I build things that matter, not just tutorials
 
 
 ## 🌐 Socials:
