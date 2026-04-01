@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning new frameworks to level up as a developer   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to REACT and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
