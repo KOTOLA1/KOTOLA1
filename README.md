@@ -14,8 +14,13 @@
   </a>
 </p>
 
-# 💫 About Me:
-## 📌 About Me<br>- 🌱 I’m currently learning new frameworks to level up as a developer<br>- ❓ Ask me about anything related to REACT and related technologies<br>- ⚡ Fun fact: I use tabs over spaces
+💫Hi 👋 I’m Kotola Yacob - a freelance front-end developer who turns ideas into websites that actually work (and don’t scare users away 😄).
+
+I build clean, responsive, and user-friendly interfaces using modern web technologies. Whether it’s a landing page, portfolio, or full website, I focus on making it fast, smooth, and visually appealing-because first impressions online matter.
+
+💡 I enjoy solving problems, fixing messy layouts, and bringing designs to life
+🎯 My goal: make your website look good and perform even better
+⚡ Fun fact: I care about your website’s user experience almost as much as you do
 
 
 ## 🌐 Socials:
