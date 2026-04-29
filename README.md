@@ -19,7 +19,9 @@
 I build clean, responsive, and user-friendly interfaces using modern web technologies. Whether it’s a landing page, portfolio, or full website, I focus on making it fast, smooth, and visually appealing-because first impressions online matter.
 
 💡 I enjoy solving problems, fixing messy layouts, and bringing designs to life
+
 🎯 My goal: make your website look good and perform even better
+
 ⚡ Fun fact: I care about your website’s user experience almost as much as you do
 
 
